@@ -9,7 +9,7 @@ A simple Netflix UI clone built using HTML, CSS, and JavaScript. This project re
 ✅ Dark-Themed UI – Netflix-inspired aesthetic
 ✅ Smooth Transitions – CSS animations for better UX
 
-<h2>🛠️ Technologies Used</h2>
+## 🛠️ Technologies Used
 HTML – Structuring the web pages
 
 CSS – Styling with Flexbox, Grid, and animations
