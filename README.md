@@ -1,4 +1,4 @@
-# Netflix-Clone
+<h1>Netflix-Clone</h1>
 🎬 Netflix Clone
 A simple Netflix UI clone built using HTML, CSS, and JavaScript. This project replicates the front-end design of Netflix, featuring a responsive layout, interactive elements, and smooth animations. Perfect for beginners looking to enhance their front-end development skills! 🚀
 
